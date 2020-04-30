@@ -1,0 +1,8 @@
+button {
+    margin-bottom: 30px;
+}
+
+.novo-produto {
+    display: flex;
+    justify-content: flex-end;
+}

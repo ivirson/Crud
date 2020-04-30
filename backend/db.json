@@ -14,6 +14,16 @@
       "id": 3,
       "name": "Samsung S20+",
       "price": 4999.99
+    },
+    {
+      "name": "Geladeira Frost Free",
+      "price": 2099.9,
+      "id": 4
+    },
+    {
+      "name": "Cama Box Ortobom",
+      "price": 1499.99,
+      "id": 5
     }
   ]
 }
