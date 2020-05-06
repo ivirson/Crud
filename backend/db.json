@@ -2,8 +2,8 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta Bic Preta",
-      "price": 5.89
+      "name": "Caneta Bic preta",
+      "price": 1.9
     },
     {
       "id": 2,
@@ -21,8 +21,8 @@
       "id": 4
     },
     {
-      "name": "Cama Box Ortobom",
-      "price": 1499.99,
+      "name": "Cama Box Herval",
+      "price": 1399.99,
       "id": 5
     }
   ]

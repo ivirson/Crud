@@ -20,17 +20,4 @@ export class ProductReadComponent implements OnInit {
       //console.table(products)
     })
   }
-
-
-
-  responderFelicitacao(msg: string) {
-    while (msg === "Parabéns @Ivirson Daltro ! Muita saúde e felicidades irmão! Que Deus continue lhe abençoando e protegendo! Saúde e felicidades à você e família! Abraços!")
-    {
-      return "Obrigado pelas felicitações!"
-    }
-  }
-  
-
-
-
 }
