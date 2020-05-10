@@ -1,0 +1,5 @@
+C:\Users\ivirson.m.daltro\Documents\Angular\crud\api\Product.Crud\Product.Crud.Data\bin\Debug\netcoreapp3.1\Product.Crud.Data.deps.json
+C:\Users\ivirson.m.daltro\Documents\Angular\crud\api\Product.Crud\Product.Crud.Data\bin\Debug\netcoreapp3.1\Product.Crud.Data.dll
+C:\Users\ivirson.m.daltro\Documents\Angular\crud\api\Product.Crud\Product.Crud.Data\obj\Debug\netcoreapp3.1\Product.Crud.Data.csprojAssemblyReference.cache
+C:\Users\ivirson.m.daltro\Documents\Angular\crud\api\Product.Crud\Product.Crud.Data\obj\Debug\netcoreapp3.1\Product.Crud.Data.AssemblyInfoInputs.cache
+C:\Users\ivirson.m.daltro\Documents\Angular\crud\api\Product.Crud\Product.Crud.Data\obj\Debug\netcoreapp3.1\Product.Crud.Data.AssemblyInfo.cs

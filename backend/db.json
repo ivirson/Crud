@@ -24,6 +24,31 @@
       "name": "Cama Box Herval",
       "price": 1399.99,
       "id": 5
+    },
+    {
+      "name": "Colchão Herval Molas ensacadas",
+      "price": 999.99,
+      "id": 6
+    },
+    {
+      "name": "Xiaomi Redmi Note 10 Pro",
+      "price": 2599.9,
+      "id": 7
+    },
+    {
+      "name": "Iphone 11 256GB",
+      "price": 6999.9,
+      "id": 8
+    },
+    {
+      "name": "Sala de jantar 6 cadeiras",
+      "price": 999.9,
+      "id": 9
+    },
+    {
+      "name": "Rack Bartira",
+      "price": 459.9,
+      "id": 10
     }
   ]
 }

@@ -1,0 +1,12 @@
+C:\Users\ivirson.m.daltro\Documents\Angular\crud\api\Product.Crud\Product.Crud.Data\bin\Debug\netcoreapp3.1\ProductCrud.Data.deps.json
+C:\Users\ivirson.m.daltro\Documents\Angular\crud\api\Product.Crud\Product.Crud.Data\bin\Debug\netcoreapp3.1\ProductCrud.Data.dll
+C:\Users\ivirson.m.daltro\Documents\Angular\crud\api\Product.Crud\Product.Crud.Data\bin\Debug\netcoreapp3.1\ProductCrud.Data.pdb
+C:\Users\ivirson.m.daltro\Documents\Angular\crud\api\Product.Crud\Product.Crud.Data\bin\Debug\netcoreapp3.1\ProductCrud.Models.dll
+C:\Users\ivirson.m.daltro\Documents\Angular\crud\api\Product.Crud\Product.Crud.Data\bin\Debug\netcoreapp3.1\ProductCrud.Models.pdb
+C:\Users\ivirson.m.daltro\Documents\Angular\crud\api\Product.Crud\Product.Crud.Data\obj\Debug\netcoreapp3.1\ProductCrud.Data.csprojAssemblyReference.cache
+C:\Users\ivirson.m.daltro\Documents\Angular\crud\api\Product.Crud\Product.Crud.Data\obj\Debug\netcoreapp3.1\ProductCrud.Data.csproj.CoreCompileInputs.cache
+C:\Users\ivirson.m.daltro\Documents\Angular\crud\api\Product.Crud\Product.Crud.Data\obj\Debug\netcoreapp3.1\ProductCrud.Data.AssemblyInfoInputs.cache
+C:\Users\ivirson.m.daltro\Documents\Angular\crud\api\Product.Crud\Product.Crud.Data\obj\Debug\netcoreapp3.1\ProductCrud.Data.AssemblyInfo.cs
+C:\Users\ivirson.m.daltro\Documents\Angular\crud\api\Product.Crud\Product.Crud.Data\obj\Debug\netcoreapp3.1\ProductCrud.Data.csproj.CopyComplete
+C:\Users\ivirson.m.daltro\Documents\Angular\crud\api\Product.Crud\Product.Crud.Data\obj\Debug\netcoreapp3.1\ProductCrud.Data.dll
+C:\Users\ivirson.m.daltro\Documents\Angular\crud\api\Product.Crud\Product.Crud.Data\obj\Debug\netcoreapp3.1\ProductCrud.Data.pdb
